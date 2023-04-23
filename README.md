@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Saim
-- 👀 I’m interested in flutter and game development
-- 🌱 I’m currently honing my skills
-- 💞️ I’m looking to collaborate on projects
-- 📫 You can mail me at saimulislam2002@gmail.com
+- 👋 Hi, I’m Saim (SM Saimul Islam)
+I'm really excited about the way software is going these days.
 
 <!---
 Saim20/Saim20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

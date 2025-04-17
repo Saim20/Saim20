@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saim (SM Saimul Islam)
 
-I've been learning programming since childhood, but the more I learn, the more it gets endless. Regardless, that makes me want to learn even more.
+Maybe I'll generate a readme with AI someday
 
 <!---
 Saim20/Saim20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
